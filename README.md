@@ -7,11 +7,11 @@
 - 英文閱讀能力
 
 ### Telegram新增機器人
-1) 先在搜尋欄搜尋:@BotFather
+1) 先在搜尋欄搜尋:[@BotFather](https://t.me/botfather)
     - 其為Telegram的機器人始祖，所有的機器人都需先向它註冊 
     ![](./assets/search_botfather.png)
 
-2)訊息欄輸入「/newbot」指令，開始創新的機器人
+2) 訊息欄輸入「/newbot」指令，開始創新的機器人
     ![](./assets/newbot_cmd.png)  
 
 - 接下來輸入想給機器人取的名字(任何語言即可)
@@ -58,7 +58,7 @@ BotFather會回傳一組token(黃色遮起來的部份)給你，**這很重要!!
 - 下載回你自己的電腦後，記得把.git的資料夾刪掉哦，不然你push時，會push到我的github上
 
 ### Heroku設定
-1) [https://dashboard.heroku.com](https://dashboard.heroku.com)，請先自行請申帳號
+1) [https://dashboard.heroku.com](https://dashboard.heroku.com)，請先自行申請帳號
 
 2) 進入dashboard後，選擇右上角的「New」，新增一個App，點選「Create new app 」。
     ![](./assets/create_heroku_app.png)
