@@ -53,7 +53,7 @@ BotFather會回傳一組token(黃色遮起來的部份)給你，**這很重要!!
     ![](./assets/show_commands.png)
 
 ### 編寫程式碼
-- 太多要解釋了，我很懶XD，直接git clone這一個[範例](https://github.com/hanc1027/TgBot_Nodejs_Example)即可
+- 太多要解釋了，我很懶XD，直接git clone這一個[範例](https://github.com/hanc1027-articles/TgBot_Nodejs_Example)即可
 
 - 下載回你自己的電腦後，記得把.git的資料夾刪掉哦，不然你push時，會push到我的github上
 
