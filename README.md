@@ -21,7 +21,7 @@
 BotFather會回傳一組token(黃色遮起來的部份)給你，**這很重要!!**，因為當你要佈署機器人到伺服器後，設定setwebhook時就需要token了!
     ![](./assets/give_username.png)  
 
-- 當上面步驟完成後，就能在搜尋欄搜尋自己的機器人了，例如我的username是「THU_mou_bot」(已刪除，若仍有看到的話，不是版主創的)，如下圖：
+- 當上面步驟完成後，就能在搜尋欄搜尋自己的機器人了，例如我的username是「[thumoubot](http://t.me/thumoubot)」，如下圖：
     ![](./assets/find_my_bot.png)  
 
 3) 機器人基本設定
